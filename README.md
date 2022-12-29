@@ -2,10 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jinhyeok%20Github&fontSize=90&fontAlignY=40" />
 <a href="mailto:jangjh45@naver.com">
 <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
+	
 <a href="https://fanatical-ornament-28d.notion.site/6b63d017b89f43d6b5a3dcaebe68f556?v=70b5850fcbb44c9899cb308b9caa0674">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
+	
+<br/><br/>	
+	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjh45%2Fhit-counter&count_bg=%23009FFF&title_bg=%23555555&icon=github.svg&icon_color=%23009FFF&title=hits&edge_flat=false"/></a>
 <!-- 공부 -->
 <h1>Studying :book:</h1>
