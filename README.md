@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jinhyeok%20Github&fontSize=90&fontAlignY=40" />
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjh45%2Fhit-counter&count_bg=%23009FFF&title_bg=%23555555&icon=github.svg&icon_color=%23009FFF&title=hits&edge_flat=false"/></a>
 <!-- 공부 -->
 <h1>Studying :book:</h1>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -9,6 +9,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 	
 <!-- 툴 -->
 <h1>Tolls :wrench:</h1>
