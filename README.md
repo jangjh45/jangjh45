@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white" />
 <br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh45&layout=compact">
+	<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh45&layout=compact"-->
 	<br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=jangjh45"/>
 	
