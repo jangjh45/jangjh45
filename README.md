@@ -7,7 +7,7 @@
 <br/><br/>	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjh45%2Fhit-counter&count_bg=%23009FFF&title_bg=%23555555&icon=github.svg&icon_color=%23009FFF&title=hits&edge_flat=false"/></a>
 <!-- 공부 -->
-<h1>Studying :book:</h1>
+<h1>:book: Studying :book:</h1>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 	
 <!-- 툴 -->
-<h1>Tolls :wrench:</h1>
+<h1>:wrench: Tolls :wrench:</h1>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
