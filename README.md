@@ -1,9 +1,8 @@
 <div align="center">
-* 스프링 기술 공부
-* AWS서버구축 - http://52.78.172.145:8080/app1/
-* 지금도 계속 공부하고 개선중 입니다.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jinhyeok%20Github&fontSize=90&fontAlignY=40" />
+	* 스프링 기술 공부<br>
+	* AWS서버구축 - http://52.78.172.145:8080/app1/<br>
+	* 지금도 계속 공부하고 개선중 입니다.<br>
 <a href="https://fanatical-ornament-28d.notion.site/6b63d017b89f43d6b5a3dcaebe68f556?v=70b5850fcbb44c9899cb308b9caa0674">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 <a href="mailto:jangjh45@naver.com">
