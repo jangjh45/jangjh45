@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jinhyeok%20Github&fontSize=90&fontAlignY=40" />
-:computer:스프링 기술 공부 -> AWS서버구축(야간에 종료) - http://<br>
+:computer:스프링 기술 공부 -> AWS서버구축 - http://<br>
 :sweat_drops:지금도 계속 공부하고 개선중 입니다.<br>
 <hr>
 <a href="https://fanatical-ornament-28d.notion.site/6b63d017b89f43d6b5a3dcaebe68f556?v=70b5850fcbb44c9899cb308b9caa0674">
